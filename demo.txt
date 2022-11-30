@@ -7,3 +7,6 @@ this is third line
 created a branch
 
 created a new branch
+
+
+text written  in branch two
